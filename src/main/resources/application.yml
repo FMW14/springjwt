@@ -14,3 +14,4 @@ spring:
 jwt:
   secret: bjartscularSecretKey
   expiration: 86400000
+  refreshExpiration: 86400000
