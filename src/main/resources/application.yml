@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://pc01.lan:5432/sample_db
+    username: postgres
+    password: postgres
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+#    generate-ddl: true
+    hibernate:
+      ddl-auto: update
+jwt:
+  secret: bjartscularSecretKey
+  expiration: 86400000
