@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <users id='1' email='mod@example.com' password='$2a$10$E2A5Qevb60FJkUW2F8Co6.vX5pDLnGTu34dVXFunAAL9ff.vdsy5K' username='mod'/>
+<!--    <users id='2' email='admin@example.com' password='$2a$10$IC4pTRXLRrUC2JeTutpKd.jfTQsIaWdPSF1DGIv0Eq6acb6yfabDC' username='admin'/>-->
+<!--    <users id='3' email='user1@example.com' password='$2a$10$5uXflWGF.SYZjdxzCBXleuAAIRExnipTqVrMBMQRDz09E/Hng..Ke' username='user1'/>-->
+</dataset>
