@@ -13,7 +13,7 @@ spring:
       ddl-auto: update
 jwt:
   secret: bjartscularSecretKey
-  expiration: 86400000
+  expiration: 3600000
   refreshExpiration: 86400000
 #logging:
 #  level:
